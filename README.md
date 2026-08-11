@@ -209,3 +209,5 @@ Every module was numerically verified before being trusted. Writing code that lo
 - **Single-rate fusion.** All three sensors run at a shared 100 Hz. Real hardware typically samples the magnetometer slower than gyro/accel, which would require asynchronous multi-rate correction.
 - **EKF, not an exact nonlinear filter.** Linearization is well justified, since the per step rotation at 100 Hz is small, but an Unscented Kalman Filter would remove that approximation at a higher computational cost.
 - **Synthetic data only.** There are no real ICM-20948/AK09916 hardware logs yet.
+
+Copyright (c) 2026 VasilisKouts
