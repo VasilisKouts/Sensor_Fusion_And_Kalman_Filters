@@ -15,10 +15,8 @@ This started as a learning project, and the goal throughout was getting the unde
 - [Sensor Noise Model](#sensor-noise-model)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Results](#results)
 - [Validation Methodology](#validation-methodology)
 - [Limitations & Future Work](#limitations--future-work)
-- [References](#references)
 
 ---
 
